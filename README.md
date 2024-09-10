@@ -11,4 +11,5 @@
   - 4.DENEGACION DE SERVICIO POR TODALA FM
   - 5.DENEGACION DE SERVICIO MEDIANTE LA AMPLIFICACION DE LA SEÑAL A LA SEÑAL Ghz
 ## posdata no me hago responsable por el mal uso de este prootipo de enviado de señales de radiofrecuencias solamente si se va a utilizar para el hacking que sea para prebas de penetracon controladas o con permiso del autor que va a hacer dichas pruebas#
-mira  me  gustaria que  quedara  bien  esto que te  voy  a  enviar  y que quede  con colores como notables negativos  para el  publico
+## visualizacion del proyecto
+![este proyecto lo vine haciendo con un arduino nano](https://github.com/L3-programing/RF_FM_arduino/blob/main/IMG_20240907_095236_157.jpg)
