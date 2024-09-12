@@ -14,7 +14,7 @@
 ![](https://github.com/L3-programing/RF_FM_arduino/blob/main/IMG_20240907_095236_157.jpg)
 ## esquema
 ![](https://github.com/L3-programing/RF_FM_arduino/blob/main/IMG_20240907_095212_656.jpg)
-## elementos para elavorar el  RF_FM_ARDUINO
+## elementos para elaborar el  RF_FM_ARDUINO
  - 1.INTEGRADO LM741 --> PUEDE  SER EL cn o cualquiera  lo  importante  es  que diga  lm741
  - 2.TRANSISTOR 2N2222A
  - 3.ARDUINO  --> PUEDE  SER CUALQUIERA
