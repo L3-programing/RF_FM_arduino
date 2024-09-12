@@ -1,9 +1,9 @@
 # RF_FM_ARDUINO
 
 ## DESCRIPCION
-  **este proyecto lo que hace es enviar señales de radiofrecuencia por la banda ancha de casi todas las frecuencias de la FM se pueden crear distintos proyectos con este proyecto de enviador de señales como por ejemplo una de  ellas es el envio de señal utilizando la tecnica del codigo morce por la banda ancha de la FM**
+  **este proyecto lo que hace es enviar señales de radiofrecuencia por la banda ancha de casi todas las frecuencias de la FM se pueden crear distintos proyectos con el RF_FM_ARDUINO de enviador de señales como por ejemplo una de  ellas es el envio de señal utilizando la tecnica del codigo morce por la banda ancha de la FM**
 ## PROYECTOS QUE SE PUEDEN HACER
-  - 1.ENVIO DE COMUNICACION DE CODIGO MMORCE
+  - 1.ENVIO DE COMUNICACION DE CODIGO MORCE
   - 2.ENVIO DE VOZ ANALOGICA
   - 3.MODULACION DE RECEPCION DE OTROS MODULOS SENSORIALES COMMO EL PIR PARA ENVIAR Y RECIVIR SEÑALES POR EJEMPLO
     DE AVISO
