@@ -7,7 +7,7 @@
   - 2.ENVIO DE VOZ ANALOGICA
   - 3.MODULACION DE RECEPCION DE OTROS MODULOS SENSORIALES COMO EL PIR PARA ENVIAR Y RECIVIR SEÑALES POR EJEMPLO
     DE AVISO
-  - 4.DENEGACION DE SERVICIO POR TODALA FM
+  - 4.DENEGACION DE SERVICIO POR TODA LA FM
   - 5.DENEGACION DE SERVICIO MEDIANTE LA AMPLIFICACION DE LA SEÑAL A LA SEÑAL Ghz
 ## posdata no me hago responsable por el mal uso de este prootipo de enviado de señales de radiofrecuencias solamente si se va a utilizar para el hacking que sea para prebas de penetracon controladas o con permiso del autor que va a hacer dichas pruebas#
 ## visualizacion del proyecto
