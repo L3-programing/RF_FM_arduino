@@ -9,7 +9,7 @@
     DE AVISO
   - 4.DENEGACION DE SERVICIO POR TODA LA FM
   - 5.DENEGACION DE SERVICIO MEDIANTE LA AMPLIFICACION DE LA SEÑAL A LA SEÑAL Ghz
-## posdata no me hago responsable por el mal uso de este prootipo de enviado de señales de radiofrecuencias solamente si se va a utilizar para el hacking que sea para prebas de penetracon controladas o con permiso del autor que va a hacer dichas pruebas#
+## posdata no me hago responsable por el mal uso de este protipo de enviado de señales de radiofrecuencias solamente si se va a utilizar para el hacking que sea para prebas de penetracon controladas o con permiso del autor que va a hacer dichas pruebas#
 ## visualizacion del proyecto
 ![](https://github.com/L3-programing/RF_FM_arduino/blob/main/IMG_20240907_095236_157.jpg)
 ## esquema
